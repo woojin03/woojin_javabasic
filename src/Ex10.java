@@ -19,6 +19,6 @@ public class Ex10 {
 				}else {
 					System.out.printf("틀렸습니다. 정답은 %s입니다.%n%n",words[i][1]);}
 		}
-	}
+	}//for
 
 }
